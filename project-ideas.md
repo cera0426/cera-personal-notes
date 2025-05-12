@@ -1,1 +1,1 @@
-<contents of project-ideas.md>
+<로컬 파일의 내용>
