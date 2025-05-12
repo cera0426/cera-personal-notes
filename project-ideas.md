@@ -1,1 +1,1 @@
-<content of project-ideas.md>
+<contents of project-ideas.md>
